@@ -20,6 +20,11 @@
 
     // Define custom dark theme styles
     const customDarkStyles = `
+    html {
+    --main-surface-primary: #eff1f5;
+    --sidebar-surface-primary: #e7e9ee;
+    }
+    
     .dark {
         --text-primary: #ccd3f2 !important;
         --text-secondary: #c0c0c0 !important;
