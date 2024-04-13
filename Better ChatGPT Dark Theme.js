@@ -23,6 +23,7 @@
     html {
     --main-surface-primary: #eff1f5;
     --sidebar-surface-primary: #e7e9ee;
+    --sidebar-surface-secondary: #cdd0d9;
     }
     
     .dark {
