@@ -2,9 +2,9 @@
 // @name         Better ChatGPT Dark Theme
 // @name:zh-CN   更好的ChatGPT暗色主题
 // @namespace    http://tampermonkey.net/
-// @version      1.2
+// @version      1.3
 // @license      MIT
-// @author       You
+// @author       izumiChan16
 // @match        https://chat.openai.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=openai.com
 // @grant        none
