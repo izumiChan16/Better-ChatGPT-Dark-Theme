@@ -2,7 +2,7 @@
 // @name         Better ChatGPT Dark Theme
 // @name:zh-CN   更好的ChatGPT暗色主题
 // @namespace    http://tampermonkey.net/
-// @version      1.4
+// @version      1.5
 // @license      MIT
 // @author       izumiChan16
 // @match        https://chat.openai.com/*
@@ -27,7 +27,7 @@
     }
     
     .dark {
-        --text-primary: #ccd3f2 !important;
+        --text-primary: #acb2be !important;
         --text-secondary: #c0c0c0 !important;
         --text-tertiary: #a9a9a9 !important;
         --text-quaternary: #808080 !important;
